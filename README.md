@@ -1,17 +1,16 @@
-# **INI FILE SHARING TOD**
+# **INI FILE SHARING MEMEK**
 
 
-**FSUB 2 BUTTON YA TYTYD**
+**FSUB 1 BUTTON YA KONTOL**
 
-### **FORK AJA KAK.. JAN LUPA BINTANG NYA YA...**
+### **JANGAN MAKE KALO GA PAHAM YA PUKI**
 ### **KALO GA PAHAM...**
 <p align="center"><a href="https://www.telegram.dog/OuraaSupport"> <img src="https://img.shields.io/badge/KLIK%20INI%20SAYANG-Green?style=for-the-badge&logo=SAYANG" width="220" height="38.45"/></a></p>
 
 
 
 #### **DEPLOY IN**
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Oura-Ubot/Oura-XFsub-Bot3"> <img src="https://img.shields.io/badge/Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=UmV5eU5hZGEvUmV5eS1YRnN1Yi1Cb3QyIG1haW4"> <img src="https://img.shields.io/badge/Bot%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Kopral19/Kopral-XFsub-Bot3"> <img src="https://img.shields.io/badge/Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## ❤️Follow Me :
 </p>
